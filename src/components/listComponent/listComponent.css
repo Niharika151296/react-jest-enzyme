@@ -1,0 +1,25 @@
+.listView{
+    height:5rem;
+    background-color: darkgray;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+
+
+.c1{
+    width:33.3%;
+    float:left;
+}
+
+.c2{
+    width:33.3%;
+    margin-left: 33.3%;
+}
+.c3{
+    width: 33.3%;
+    float: right;
+    margin-top: -30px;
+}
+
